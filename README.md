@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Oscar Aguilar
 
-<!--
-**xKouka/xKouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web apasionado por construir soluciones eficientes y crear experiencias de usuario memorables.
 
-Here are some ideas to get you started:
+<a href="URL-DE-TU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tu-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologías y Herramientas
+
+![My Skills](https://skillicons.dev/icons?i=react,astro,tailwind,nodejs,express,mongodb,mysql,git,vscode,js,ts)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=xKouka&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKouka&layout=compact&theme=radical" alt="Lenguajes más usados"></td>
+  </tr>
+</table>
+
+---
