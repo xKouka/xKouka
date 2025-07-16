@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Oscar Aguilar
+# 👋 ¡Hola! Soy Oscar Aguiar
 
-Desarrollador web apasionado por construir soluciones eficientes y crear experiencias de usuario memorables.
+Desarrollador web apasionado por construir soluciones eficientes y crear experiencias de usuario memorables, desde el diseño inicial hasta el despliegue final.
 
 <a href="URL-DE-TU-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +13,9 @@ Desarrollador web apasionado por construir soluciones eficientes y crear experie
 
 ### 💻 Tecnologías y Herramientas
 
-![My Skills](https://skillicons.dev/icons?i=react,astro,tailwind,nodejs,express,mongodb,mysql,git,vscode,js,ts)
+Mi stack tecnológico es versátil y moderno, abarcando desde el diseño de interfaces y frameworks de frontend hasta el desarrollo backend y la gestión de contenidos.
+
+![My Skills](https://skillicons.dev/icons?i=nextjs,bootstrap,figma,react,astro,tailwind,nodejs,express,mongodb,mysql,wordpress,git,vscode,js,ts)
 
 ---
 
